@@ -1,13 +1,13 @@
 ###
 # Unity folders and files
 ###
-/3D_Unity_Game/[Aa]ssets/AssetStoreTools*
-/3D_Unity_Game/[Bb]uild/
-/3D_Unity_Game/[Ll]ibrary/
-/3D_Unity_Game/[Ll]ocal[Cc]ache/
-/3D_Unity_Game/[Oo]bj/
-/3D_Unity_Game/[Tt]emp/
-/3D_Unity_Game/[Uu]nityGenerated/
+/Demos and Experiments/[Aa]ssets/AssetStoreTools*
+/Demos and Experiments/[Bb]uild/
+/Demos and Experiments/[Ll]ibrary/
+/Demos and Experiments/[Ll]ocal[Cc]ache/
+/Demos and Experiments/[Oo]bj/
+/Demos and Experiments/[Tt]emp/
+/Demos and Experiments/[Uu]nityGenerated/
 # file on crash reports
 sysinfo.txt
 # Unity3D generated meta files
@@ -40,6 +40,6 @@ Icon?
 ehthumbs.db
 Thumbs.db
 *.log
-3D_Unity_Game/UserSettings/Layouts/default-2021.dwlt
-3D_Unity_Game/.claudiaideconfig
+Demos and Experiments/UserSettings/Layouts/default-2021.dwlt
+Demos and Experiments/.claudiaideconfig
 *.vsidx
