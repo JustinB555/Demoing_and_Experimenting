@@ -1,0 +1,22 @@
+/* Created by: Justin Butler
+ * Purpose: To showcase the basic ways that you can use the camera.
+ */
+
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class Basic_Camera : MonoBehaviour
+{
+    // Start is called before the first frame update
+    void Start()
+    {
+        
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        
+    }
+}
